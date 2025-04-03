@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last Updated: [Current Date]
+Last Updated: 03-04-2025
 
 ## 1. Information We Collect
 The Bot may collect and store the following information:
@@ -39,4 +39,4 @@ The Bot may use cookies or similar tracking technologies to enhance user experie
 We reserve the right to modify this Privacy Policy at any time. Users will be notified of any changes through the Bot's support server or documentation.
 
 ## 8. Contact Information
-For any questions about this Privacy Policy, please contact us at [Your Contact Information]. 
+For any questions about this Privacy Policy, please contact us at (https://github.com/Un-hyphen/Discord-Bot). 
